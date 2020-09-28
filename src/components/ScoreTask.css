@@ -1,0 +1,16 @@
+.next-btn-div{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.next-btn{
+    width:20%;
+    height: 40px;
+    color:limegreen;
+    background-color: white;
+    outline: none;
+    border:2px solid limegreen
+}

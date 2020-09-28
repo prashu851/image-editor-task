@@ -1,0 +1,13 @@
+.card-container{
+    margin-top: 80px;
+}
+.scoring-task{
+    float: right;
+    width:200%;
+    margin-bottom: 10px;
+}
+
+.score-task-details{
+    width:40% ;
+    margin:0 auto;
+}
