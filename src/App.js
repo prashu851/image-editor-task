@@ -15,9 +15,6 @@ function App() {
       <Router>
         <NavBar />
         <Switch>
-          <Route exact path="/">
-            <Instructor />
-          </Route>
           <Route exact path="/create-task">
             <CreateTask />
           </Route>
